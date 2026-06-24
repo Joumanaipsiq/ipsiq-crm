@@ -1,0 +1,44 @@
+{
+  "leads": [
+    {
+      "name": "test",
+      "org": "test",
+      "type": "Fintech",
+      "email": "gg",
+      "phone": "gg",
+      "language": "DE",
+      "stage": "Identified",
+      "notes": "",
+      "nextAction": "",
+      "date": "2026-06-24",
+      "id": "1782299356387",
+      "createdAt": "2026-06-24T11:09:16.387Z",
+      "createdBy": "admin"
+    }
+  ],
+  "settings": {
+    "types": [
+      "IFA",
+      "SO/Association",
+      "Bank",
+      "Insurer",
+      "Pension Fund",
+      "Employer",
+      "Fintech"
+    ],
+    "languages": [
+      "DE",
+      "FR",
+      "IT",
+      "EN"
+    ],
+    "stages": [
+      "Identified",
+      "Contacted",
+      "Follow-up",
+      "Responded",
+      "Meeting",
+      "Closed"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "passwordHash": "$2a$12$TX0.fpU2MWPgGSU3Kszzg.dC0c80JoO3naWtvNCmwmwBbkWUL.YQG",
+    "role": "admin",
+    "createdAt": "2026-06-24T11:07:27.678Z"
+  },
+  {
+    "id": "1782299457225",
+    "username": "Karsten",
+    "passwordHash": "$2a$12$oVDYeNTxNYgti9gtE0gKI...0M3GvzUrNlG3nxdCqbXugTEzxAFlC",
+    "role": "editor",
+    "createdAt": "2026-06-24T11:10:57.447Z"
+  }
+]
